@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "CONVINCING",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2026-02-07T15:43:27.101209Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Convincing",
+      "artist": "Wet Leg",
+      "has_synced": false,
+      "path": "select/01_Convincing_Wet_Leg.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Convincing People - Live",
+      "artist": "Throbbing Gristle",
+      "has_synced": false,
+      "path": "select/02_Convincing_People_-_Live_Throbbing_Gristle.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Convincing",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/03_Convincing_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "convincing",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/04_convincing_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "CONVINCING",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/05_CONVINCING_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cunning, Not Convincing",
+      "artist": "Get Scared",
+      "has_synced": true,
+      "path": "select/06_Cunning,_Not_Convincing_Get_Scared.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "What a Convincing Illusion",
+      "artist": "Rosie Darling",
+      "has_synced": true,
+      "path": "select/07_What_a_Convincing_Illusion_Rosie_Darling.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Convincing",
+      "artist": "Seeming",
+      "has_synced": true,
+      "path": "select/08_Convincing_Seeming.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Convincing",
+      "artist": "Juice The Kid W",
+      "has_synced": false,
+      "path": "select/09_Convincing_Juice_The_Kid_W.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Convincing People (Remastered)",
+      "artist": "Throbbing Gristle",
+      "has_synced": false,
+      "path": "select/10_Convincing_People_(Remastered)_Throbbing_Gristle.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Convincing - Spotify Singles",
+      "artist": "Wet Leg",
+      "has_synced": true,
+      "path": "select/11_Convincing_-_Spotify_Singles_Wet_Leg.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Convincing People",
+      "artist": "Throbbing Gristle",
+      "has_synced": false,
+      "path": "select/12_Convincing_People_Throbbing_Gristle.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "What A Convincing Illusion",
+      "artist": "Rosie Darling",
+      "has_synced": false,
+      "path": "select/13_What_A_Convincing_Illusion_Rosie_Darling.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Convincing",
+      "artist": "One OK Rock",
+      "has_synced": true,
+      "path": "select/14_Convincing_One_OK_Rock.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Convincing (Chaos Mix)",
+      "artist": "Seeming",
+      "has_synced": true,
+      "path": "select/15_Convincing_(Chaos_Mix)_Seeming.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Convincing People",
+      "artist": "Throbbing Gristle",
+      "has_synced": true,
+      "path": "select/16_Convincing_People_Throbbing_Gristle.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CONVINCING",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_CONVINCING_ONE_OK_ROCK.txt"
+    }
+  ]
+}
